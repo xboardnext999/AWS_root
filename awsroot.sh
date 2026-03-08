@@ -14,7 +14,7 @@ install_self() {
     if [[ $0 != "/usr/local/bin/awsroot" ]]; then
         echo -e "${yellow}► 正在自动安装 awsroot ...${plain}"
 
-        curl -Ls https://raw.githubusercontent.com/AKA668/AWS_root/main/awsroot.sh -o /usr/local/bin/awsroot
+        curl -Ls https://raw.githubusercontent.com/xboardnext999/AWS_root/main/awsroot.sh -o /usr/local/bin/awsroot
         chmod +x /usr/local/bin/awsroot
 
         echo -e "${green}✔ 安装完成！现在可直接输入：  awsroot${plain}"
