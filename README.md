@@ -90,6 +90,4 @@ rm -f /usr/local/bin/awsroot
 
 ## Stars 增长记录
 
-## Star History
-
 [![Star History Chart](https://api.star-history.com/image?repos=xboardnext999/AWS_root&type=date&legend=top-left)](https://www.star-history.com/?repos=xboardnext999%2FAWS_root&type=date&legend=top-left)
