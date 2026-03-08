@@ -88,8 +88,8 @@ rm -f /usr/local/bin/awsroot
 - 推荐使用 SSH Key 登录  
 - 生产环境建议限制 SSH 来源 IP  
 
-## 🌐 项目地址
-GitHub：  
-https://github.com/AKA668/AWS_root
+## Stars 增长记录
 
-欢迎 Star ⭐
+## Star History
+
+[![Star History Chart](https://api.star-history.com/image?repos=xboardnext999/AWS_root&type=date&legend=top-left)](https://www.star-history.com/?repos=xboardnext999%2FAWS_root&type=date&legend=top-left)
