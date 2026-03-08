@@ -21,7 +21,7 @@
 
 ## 🚀 一键安装
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/AKA668/AWS_root/main/awsroot.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/xboardnext999/AWS_root/main/awsroot.sh)
 ```
 安装后执行：
 ```bash
